@@ -1,0 +1,8 @@
+{
+  "name": "zhengming map",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "9b1b39ee"
+}

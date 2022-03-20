@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "zhengming map",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
